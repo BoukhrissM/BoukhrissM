@@ -7,7 +7,6 @@
 - ASP.NET MVC/WebAPI
 - Entity Framework
 - SQL Server
-- Azure DevOps
 - Git/GitHub
 
 🌟 I enjoy tackling challenging problems and staying up-to-date with the latest developments in the .NET ecosystem. Open-source enthusiast and always eager to collaborate on exciting projects.
