@@ -1,16 +1,15 @@
-👋 Hello, I'm BOUKHRISS MOHAMED!
+👋 Greetings! I'm BOUKHRISS MOHAMED, a software engineer specializing in Java and Angular development.
 
-🚀 I'm a passionate .NET developer with a love for clean code and building robust software solutions.I'm dedicated to creating efficient and scalable applications that deliver value.
+🚀 With a passion for crafting elegant solutions, I prioritize clean code and robust software architecture. I thrive on leveraging the power of Java and Angular to build sophisticated applications that resonate with users.
 
-🔧 My technical toolbox includes:
-- C#/.NET Core
-- ASP.NET MVC/WebAPI
-- Entity Framework
-- SQL Server
-- Git/GitHub
+💼 My expertise includes:
+- Java (Spring Boot, Hibernate)
+- Angular (Angular CLI, TypeScript)
+- SQL databases (MySQL, PostgreSQL)
+- Version control with Git/GitHub
 
-🌟 I enjoy tackling challenging problems and staying up-to-date with the latest developments in the .NET ecosystem. Open-source enthusiast and always eager to collaborate on exciting projects.
+🌟 I find joy in solving complex challenges and staying at the forefront of Java and Angular technologies. I actively contribute to open-source projects and enjoy collaborating with fellow developers.
 
-💬 Let's connect! Feel free to reach out for discussions, collaborations, or just to say hi. Together, we can code the future! 🖥️💡
+💬 Let's connect! Whether it's discussing potential collaborations or simply exchanging ideas, I'm always eager to engage. Together, we can create software solutions that inspire and innovate! 🖥️💡
 
-📫 You can contact me at bouukhriss@gmail.com or find me on https://www.linkedin.com/in/boukhriss/ .
+📧 Feel free to reach out via email at bouukhriss@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/boukhriss/.
