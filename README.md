@@ -6,7 +6,7 @@
 - Java (Spring Boot, Hibernate)
 - Angular (Angular CLI, TypeScript)
 - SQL databases (MySQL, PostgreSQL)
-- Version control with Git/GitHub
+- Version control with Git/GitHub/Gitlab
 
 🌟 I find joy in solving complex challenges and staying at the forefront of Java and Angular technologies. I actively contribute to open-source projects and enjoy collaborating with fellow developers.
 
